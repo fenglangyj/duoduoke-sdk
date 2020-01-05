@@ -20,7 +20,7 @@
 
 ### 安装
 
-`composer require justmd5/duoduoke-sdk`
+`composer require fenglangyj/duoduoke-sdk`
 
 ### 使用
 
